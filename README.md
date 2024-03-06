@@ -1,4 +1,4 @@
-*Impelementing CPU Scheduling Algorithms using C*
+**Implementing CPU Scheduling Algorithms using C**
 This repository focuses on implementing major CPU scheduling algorithms, including First-Come, First-Served (FCFS), 
 Shortest Job Next (SJN) or Shortest Job First (SJF), Shortest Remaining Time First (SRTF), Round Robin (RR), and Priority Scheduling.
 
